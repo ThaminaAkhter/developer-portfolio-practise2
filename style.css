@@ -57,3 +57,16 @@ h2{
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
+.experience-area{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer p{
+    text-align: center;
+    background-image: linear-gradient(tomato,purple);
+    padding:30px;
+    color: white;
+    text-transform: capitalize;
+    
+}
